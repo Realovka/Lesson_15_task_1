@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<books>
+    <bookHashSet>
+        <vendorCode>125</vendorCode>
+        <name>Точка обмана</name>
+        <yearOfPublishing>2007</yearOfPublishing>
+    </bookHashSet>
+    <bookHashSet>
+        <vendorCode>124</vendorCode>
+        <name>Код да Винчи</name>
+        <yearOfPublishing>2006</yearOfPublishing>
+    </bookHashSet>
+    <bookHashSet>
+        <vendorCode>123</vendorCode>
+        <name>Ангелы и демоны</name>
+        <yearOfPublishing>2005</yearOfPublishing>
+    </bookHashSet>
+</books>
